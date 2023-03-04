@@ -8,7 +8,7 @@ An untrained example of ChatBot begins off evolved off without an understanding 
 
 `1. https://github.com/ps-partha/python-chatbot.git`<br>
 `2. cd python-chatbot`<br>
-`3. pip install -r requirements.txt`
+`3. pip install -r requirements.txt`,<br>
 `4. python chatbot.py`<br>
 
 
