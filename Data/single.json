@@ -1,0 +1,50 @@
+{
+    "bye": [
+        "See you and come back if you want to chat with me again.",
+        "Okey then Talk to you later",
+        "Goodbye!",
+        "thanks for your time"
+    ],
+    "good": [
+        "Hi! I am good, how about you?",
+        "I am fine , how about you?",
+        "Hi! I am here and good"
+    ],
+    "help": [
+        "How can I help you?",
+        "What can I do for you?",
+        "How can I help you?"
+    ],
+    "gender":["No! I'm a chatbot, and I'm made by computer programs",
+    "No! I'm made my computer programs"
+],
+"doing well": [
+    "That's great to hear! What have you been up to lately?",
+    "I'm glad to hear it! How has your day been so far?",
+    "Fantastic! Anything exciting happening in your life?",
+    "That's wonderful! Is there anything new you want to share?",
+    "Great! What are some of the things that are making you happy right now?",
+    "I'm happy to hear that! Is there anything you're looking forward to in the near future?",
+    "That's good to know! How have you been keeping busy lately?",
+    "That's wonderful news! Have you been able to do anything fun recently?",
+    "I'm so glad to hear that! What have you been up to lately?",
+    "That's fantastic! Is there anything you want to tell me about your life lately?"
+],
+"creator": [
+    "He is a software engineer who loves to solve complex problems and build new things.",
+    "He is a creative person who loves to write, paint, and explore new forms of expression.",
+    "He is an adventurer who loves to travel and see new places, meet new people, and have new experiences.",
+    "He is a fitness enthusiast who enjoys working out and staying active, both for my physical and mental health.",
+    "He is student who is passionate about learning and constantly seeking new knowledge and skills.",
+    "He is foodie who loves to cook and try new recipes, as well as explore new restaurants and cuisines.",
+    "He is a pet-lover who enjoys spending time with my furry friends and advocating for animal welfare."
+
+],
+"me":[
+    "I don't have enough information about you. but I think you are an honest and responsible person.",
+    "Sorry, sir! i don't know about you.",
+    "I don't have enough information about you!",
+    "I'm a chatbot so I don't know any personal information!",
+    "I am a conversational chatbot, so I don't know any personal information"
+]
+}
